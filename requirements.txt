@@ -1,0 +1,5 @@
+playwright>=1.48,<2
+pywinauto>=0.6.8,<1
+Pillow>=10,<13
+pyinstaller>=6,<7
+pytest>=8,<9
